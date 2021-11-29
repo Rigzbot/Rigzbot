@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StockX](https://github.com/Rigzbot/StockApp)
 
-- 🌱 I’m currently learning **Firebase, Appwrite, MVVM Architecture**
+- 🌱 I’m currently learning **Firebase, Appwrite**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
