@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigzbot&label=Profile%20views&color=0e75b6&style=flat" alt="rigzbot" /> </p>
 
-- 🔭 I’m currently working on [StockX](https://github.com/Rigzbot/StockApp)
+- 🔭 I’m currently working on [CollegeBuddy](https://github.com/Rigzbot/CollegeBuddy)
 
 - 🌱 I’m currently learning **Firebase, Appwrite**
 
